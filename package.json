@@ -1,0 +1,11 @@
+{
+  "name": "rsschool-cv",
+  "version": "1.0.0",
+  "description": "cv",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp start"
+  },
+  "author": "",
+  "license": "ISC"
+}
