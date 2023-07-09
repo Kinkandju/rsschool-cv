@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jane Yamschikova",
+  "author": "Evgeniia Iamshchikova",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.29.3",
@@ -27,6 +27,7 @@
     "gulp-webp-html": "^1.0.2",
     "gulp-webpcss": "^1.1.1",
     "sass": "^1.63.6",
+    "uninstall": "^0.0.0",
     "webp-converter": "^2.2.3"
   }
 }
